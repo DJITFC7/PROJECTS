@@ -6,9 +6,9 @@ int main(){
 	string name;
 	cout<<"Please enter your name"<<endl;
 	cin>>name;
-	int m_number;
+	int matric_number;
 	cout<<"Please enter your matric number"<<endl;
-	cin>>m_number;
+	cin>>matric_number;
 	short age;
 	cout<<"Please enter your Age"<<endl;
 	cin>>age;
@@ -45,7 +45,7 @@ int main(){
 	cout<<"          STUDENT PERFORMANCE SYSTEM          "<<endl;
 	cout<<"=============================================="<<endl<<endl<<endl<<endl;
 	cout<<"Name:                  "<<name<<endl;
-	cout<<"Matric number:         "<<m_number<<endl;
+	cout<<"Matric number:         "<<matric_number<<endl;
 	cout<<"Age:                   "<<age<<endl;
 	cout<<"Test 1:                "<<TS_1<<endl;
 	cout<<"Test 2:                "<<TS_2<<endl;
